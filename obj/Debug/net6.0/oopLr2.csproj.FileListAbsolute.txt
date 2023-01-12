@@ -1,0 +1,15 @@
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\bin\Debug\net6.0\oopLr2.exe
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\bin\Debug\net6.0\oopLr2.deps.json
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\bin\Debug\net6.0\oopLr2.runtimeconfig.json
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\bin\Debug\net6.0\oopLr2.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\bin\Debug\net6.0\oopLr2.pdb
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.csproj.AssemblyReference.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.AssemblyInfoInputs.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.AssemblyInfo.cs
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.csproj.CoreCompileInputs.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\refint\oopLr2.dll
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.pdb
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\oopLr2.genruntimeconfig.cache
+C:\Users\Olegi\Desktop\RGR_Lavrov\oopLr2\oopLr2\obj\Debug\net6.0\ref\oopLr2.dll
